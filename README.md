@@ -1,4 +1,4 @@
-### Olá, este é o meu repositório pessoal 👋
+### Olá, este é o meu repositório de perfil 👋
 
 <!--
 
