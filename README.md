@@ -6,4 +6,5 @@
 - 📫 Email:kayky7277@gmail.com
 -Cursos em geral:Informática básica, espanhol(nivel médio), javascript básico, Linguagem de programação C básica.
 -->
-Este site foi construído usando [GitHub Pages](https://pages.github.com/).
+[Facebook](https://www.facebook.com/kayky.matossantana).
+[linkedin](https://www.linkedin.com/in/kayky-matos-santana-0911991a6/).
