@@ -1,4 +1,4 @@
-### Olá, este é o meu repositório de perfil 👋
+### Olá, Bem Vondo ao meu perfil👋
 
 - 🌱 Atualmente estou cursando etec(Desenvolvimento de sistema)...
 - 📫 Email:kayky7277@gmail.com<br>
